@@ -1,5 +1,6 @@
 This document was created for the purpose of clarifying the intended functions of the project
 
+//Update: October 7, 2017
 
 ----server.js----
 This file will first require the express, body-parser, and method override, and express-handlebars node packages.
@@ -39,4 +40,4 @@ This file will create the basis for rendering the status of burger objects into 
 
 
 //Update: November 23, 2017
-All that is left is displaying information from the database. There seems to be a problem in defining the burger object across modules.
+All that is left is displaying information from the database. There seems to be a problem in defining the burger object across modules. Otherwise, handlebars are functional, views work, and the SQL database works externally.
