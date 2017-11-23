@@ -36,3 +36,7 @@ This file will create the main basis for the rendering of html and call the burg
 
 ----index.handlebars----
 This file will create the basis for rendering the status of burger objects into html.
+
+
+//Update: November 23, 2017
+All that is left is displaying information from the database. There seems to be a problem in defining the burger object across modules.
